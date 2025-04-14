@@ -8,4 +8,4 @@ Metodología BEM
 FIGMA
 GITHUB
 
-Página web: https://juanantonio64.github.io/web_project_homeland/
+Página web: https://juanantonio64.github.io/web_project_homeland/index.html
